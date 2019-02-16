@@ -13,7 +13,7 @@ class String
   end
 
   def exclamation?
-
+"Hello, world!" 
   end
 
   def count_sentences
