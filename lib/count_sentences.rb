@@ -8,6 +8,7 @@ class String
      end
 
   def question?
+    "what's your name?".questions?
 
   end
 
