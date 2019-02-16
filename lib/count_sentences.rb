@@ -5,8 +5,7 @@ class String
   def sentence?
     "Hi, my name is Sophie".sentence
     
-    
-  end
+     end
 
   def question?
 
