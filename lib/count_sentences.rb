@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-    "Hi, my name is Sophie".sentence = "true"
+    "Hi, my name is Sophie".sentence
     
     
   end
