@@ -23,6 +23,7 @@ end
   end
 
   def count_sentences
+    ("one", "two", "three").count_sentences = (3)
 
   end
 end
