@@ -3,12 +3,12 @@ require 'pry'
 class String
 
   def sentence?
-    "Hi, my name is Sophie".sentence
+    "Hi, my name is Sophie".sentence = true 
     
      end
 
   def question?
-    "what's your name?".questions?
+    "what's your name?".questions? = true 
 
   end
 
